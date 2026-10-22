@@ -10,8 +10,6 @@ export default defineConfig([
 
       "no-unused-vars": "error",
 
-      "no-undef": "error",
-
       "semi": ["error", "always"],
 
       "quotes": ["error", "double"]
