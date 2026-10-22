@@ -12,7 +12,7 @@ export default defineConfig([
 
       "semi": ["error", "always"],
 
-      "quotes": ["error", "double"]
+      "quotes": ["error", "double", "single"]
 
     }
 

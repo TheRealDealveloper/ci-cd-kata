@@ -1,8 +1,8 @@
-import add from "./app";
+import add from './app';
 if (add(2, 3) !== 5) {
-    console.error("Test failed: 2 + 3 should be 5");
+    console.error('Test failed: 2 + 3 should be 5');
     process.exit(1);
 } else {
-    console.log("Test successful!");
+    console.log('Test successful!');
     process.exit(0);
 }
